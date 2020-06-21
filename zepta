@@ -104,15 +104,3 @@ def pilih():
     exit('  RADIANGANS')
  
 pilih() if __name__ == '__main__' else exit('Maaf Bro Ada Yang Eror, Kek Nya Lu Belum Sholat Dah.')
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
